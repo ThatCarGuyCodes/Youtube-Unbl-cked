@@ -15,7 +15,10 @@ https://youtubetranscript.com/ <br>
 https://www.edu-apps.org/lti_public_resources/?tool_id=youtube#/youtube/search <br>
 https://613tube.com/ <br>
 https://youtubevideoembed.com/ <br>
+https://d.tube/ <br>
+https://www.keepvid.to/ <br>
+https://youtubevideoembed.com/ <br>
 
-**Hop.sh** <br>
-https://ela.hop.sh <br>
-https://banana.hop.sh <br>
+**Movies** <br>
+https://skool-movies.pages.dev/#/search/movie <br>
+https://bibibop.pages.dev/#/search/movie
